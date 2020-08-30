@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A850FF824FC272D00950CBC /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A850FF724FC272D00950CBC /* SettingsViewController.swift */; };
 		6AA7A0DE24FB124D00BAF662 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA7A0DD24FB124D00BAF662 /* AppDelegate.swift */; };
 		6AA7A0E024FB124D00BAF662 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA7A0DF24FB124D00BAF662 /* SceneDelegate.swift */; };
 		6AA7A0E224FB124D00BAF662 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA7A0E124FB124D00BAF662 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6A850FF724FC272D00950CBC /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		6AA7A0DA24FB124D00BAF662 /* tippy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tippy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AA7A0DD24FB124D00BAF662 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6AA7A0DF24FB124D00BAF662 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				6AA7A0E624FB124F00BAF662 /* Assets.xcassets */,
 				6AA7A0E824FB124F00BAF662 /* LaunchScreen.storyboard */,
 				6AA7A0EB24FB124F00BAF662 /* Info.plist */,
+				6A850FF724FC272D00950CBC /* SettingsViewController.swift */,
 			);
 			path = tippy;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				6AA7A0E224FB124D00BAF662 /* ViewController.swift in Sources */,
 				6AA7A0DE24FB124D00BAF662 /* AppDelegate.swift in Sources */,
 				6AA7A0E024FB124D00BAF662 /* SceneDelegate.swift in Sources */,
+				6A850FF824FC272D00950CBC /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
